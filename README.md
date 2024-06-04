@@ -11,14 +11,7 @@ Olá,Bem vindo ao meu github
  <a href="https://github.com/biacapist1224">
   <div class="" data-hpc="">
           
-  
-
-  <div class="Box mt-4 ">
-  <div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
-      <div class="text-mono text-small mb-3">
-        <a href="/anuraghazra/anuraghazra" class="no-underline Link--primary">anuraghazra</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
-      </div>
+ 
 
     </div>
     <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto" align="center"><a href="https://anuraghazra.github.io" rel="nofollow"><img alt="Hello, I'm Anurag. I do open source!" src="/anuraghazra/anuraghazra/raw/master/assets/gh-readme-header.png" style="max-width: 100%;" width="80%"></a></p>
