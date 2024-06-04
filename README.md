@@ -23,11 +23,11 @@ Olá,Bem vindo ao meu github
     </div>
     <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto" align="center"><a href="https://anuraghazra.github.io" rel="nofollow"><img alt="Hello, I'm Anurag. I do open source!" src="/anuraghazra/anuraghazra/raw/master/assets/gh-readme-header.png" style="max-width: 100%;" width="80%"></a></p>
 <br>
-<p dir="auto">I'm a self-taught passionate FrontEnd developer from India 🇮🇳</p>
+<p dir="auto">I'm a self-taught passionate FrontEnd developer from Brazil</p>
 <p dir="auto"><strong>About me</strong></p>
 <ul dir="auto">
 <li>
-<p dir="auto">💼 FrontEnd Engineer at <a href="http://razorpay.com/" rel="nofollow">Razorpay</a></p>
+<p dir="auto">💼 FrontEnd at <a href="http://razorpay.com/" rel="nofollow">Razorpay</a></p>
 </li>
 <li>
 <p dir="auto">📈 Built github-readme-stats, verlyjs and more, <strong>50m+</strong> hits • <strong>50K</strong> stars on GitHub</p>
